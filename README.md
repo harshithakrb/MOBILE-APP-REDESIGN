@@ -102,3 +102,5 @@ The completed Netflix UI prototype in Figma is a fully interactive, visually app
 **OUTPUT**
 
 ![Image](https://github.com/user-attachments/assets/a59c3227-7e3b-40e1-a44d-61f1c0733ade)
+
+https://github.com/user-attachments/assets/d997e757-c12b-4b1c-b7ac-442dd5f5191d
